@@ -1,0 +1,6 @@
+{
+  "name": "ROTOX[ALFA]",
+  "description": "Plataforma 3D estilo sandbox clásico para jugar mundos 3D, crear juegos y accesorios, personalizar tu avatar y jugar con amigos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
